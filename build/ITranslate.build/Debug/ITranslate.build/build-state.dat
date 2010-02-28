@@ -1,0 +1,249 @@
+TITranslate
+v7
+r0
+t279406980.262873
+cCheck dependencies
+cProcessInfoPlistFile /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCopyStringsFile /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/pt.lproj/InfoPlist.strings pt.lproj/InfoPlist.strings
+cCpResource build/Debug/ITranslate.app/Contents/Resources/rb_main.rb rb_main.rb
+cCpResource build/Debug/ITranslate.app/Contents/Resources/Services.rb Services.rb
+cCopyStringsFile /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/English.lproj/ServicesMenu.strings English.lproj/ServicesMenu.strings
+cCopyStringsFile /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/pt.lproj/ServicesMenu.strings pt.lproj/ServicesMenu.strings
+cCompileC build/ITranslate.build/Debug/ITranslate.build/Objects-normal/i386/main.o /Users/rogerio/Documents/Projetos/Ruby/ITranslate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/MacOS/ITranslate normal i386
+cTouch /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/RubyCocoa.framework/Headers/RBRuntime.h
+c0000000047BB26B300000000000005C0
+t1203447475
+s1472
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/RubyCocoa.framework/RubyCocoa
+c000000004A11F42400000000000850F0
+t1242690596
+s545008
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/English.lproj/InfoPlist.strings
+c000000004AABCE420000000000000198
+t1252773442
+s408
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/English.lproj/ServicesMenu.strings
+c000000004AF5FDE800000000000001B0
+t1257635304
+s432
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/Services.rb
+c000000004AF600E100000000000007E9
+t1257636065
+s2025
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app
+t1257714180
+s102
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Info.plist
+t1257714180
+s2922
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/MacOS/ITranslate
+t1257636005
+s13132
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/PkgInfo
+t1257714180
+s8
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1257636004
+s408
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/English.lproj/ServicesMenu.strings
+t1257636004
+s432
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/Services.rb
+t1257636122
+s2025
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/gems
+t1257296401
+s238
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/pt.lproj/InfoPlist.strings
+t1257636004
+s406
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/pt.lproj/ServicesMenu.strings
+t1257636004
+s430
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/rb_main.rb
+t1257636004
+s623
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/ITranslate.build/Debug/ITranslate.build/Objects-normal/i386/ITranslate.LinkFileList
+c000000004AF600A3000000000000007B
+t1257636003
+s123
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/ITranslate.build/Debug/ITranslate.build/Objects-normal/i386/main.o
+t1257636005
+s4936
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/gems
+c000000004AD6A28C00000000000000EE
+t1255580300
+s238
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/main.m
+c000000004AF0D8080000000000000120
+t1257297928
+s288
+i<Cocoa/Cocoa.h>
+i<RubyCocoa/RBRuntime.h>
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/pt.lproj/InfoPlist.strings
+c000000004AAC08FA0000000000000196
+t1252788474
+s406
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/pt.lproj/ServicesMenu.strings
+c000000004AF5F7DC00000000000000DE
+t1257633756
+s222
+
+N/Users/rogerio/Documents/Projetos/Ruby/ITranslate/rb_main.rb
+c000000004AF0D7FA000000000000026F
+t1257297914
+s623
+
+NInfo.plist
+c000000004AF732010000000000000BE3
+t1257714177
+s3043
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies279406980#279406980#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/ITranslate.build/Debug/ITranslate.build/Objects-normal/i386/main.o /Users/rogerio/Documents/Projetos/Ruby/ITranslate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279328804.069847
+e279328805.194826
+r1
+xCompileC
+xbuild/ITranslate.build/Debug/ITranslate.build/Objects-normal/i386/main.o
+x/Users/rogerio/Documents/Projetos/Ruby/ITranslate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/rogerio/Documents/Projetos/Ruby/ITranslate/main.m279328804#279328805#0(0"0(0#0#56"/Users/rogerio/Documents/Projetos/Ruby/ITranslate/main.m4300882208#1014"    cd /Users/rogerio/Documents/Projetos/Ruby/ITranslate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/ITranslate.build/Debug/ITranslate.build/ITranslate.hmap -F/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug -I/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/include -I/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/ITranslate.build/Debug/ITranslate.build/DerivedSources/i386 -I/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/ITranslate.build/Debug/ITranslate.build/DerivedSources -c /Users/rogerio/Documents/Projetos/Ruby/ITranslate/main.m -o /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/ITranslate.build/Debug/ITranslate.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s279328803.953444
+e279328804.019652
+r1
+xCopyStringsFile
+x/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings279328803#279328804#0(0"0(0#0#81"/Users/rogerio/Documents/Projetos/Ruby/ITranslate/English.lproj/InfoPlist.strings4300882208#391"    cd /Users/rogerio/Documents/Projetos/Ruby/ITranslate    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/English.lproj/ServicesMenu.strings English.lproj/ServicesMenu.strings
+s279328804.021621
+e279328804.067706
+r1
+xCopyStringsFile
+x/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/English.lproj/ServicesMenu.strings
+xEnglish.lproj/ServicesMenu.strings
+lSLF07#2@39"Copy English.lproj/ServicesMenu.strings279328804#279328804#0(0"0(0#0#84"/Users/rogerio/Documents/Projetos/Ruby/ITranslate/English.lproj/ServicesMenu.strings4300882208#394"    cd /Users/rogerio/Documents/Projetos/Ruby/ITranslate    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/ServicesMenu.strings --outdir /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/pt.lproj/InfoPlist.strings pt.lproj/InfoPlist.strings
+s279328803.954840
+e279328804.019870
+r1
+xCopyStringsFile
+x/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/pt.lproj/InfoPlist.strings
+xpt.lproj/InfoPlist.strings
+opt.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@31"Copy pt.lproj/InfoPlist.strings279328803#279328804#0(128"pt.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#76"/Users/rogerio/Documents/Projetos/Ruby/ITranslate/pt.lproj/InfoPlist.strings4300882208#380"    cd /Users/rogerio/Documents/Projetos/Ruby/ITranslate    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 pt.lproj/InfoPlist.strings --outdir /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/pt.lproj0#
+
+CCopyStringsFile /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/pt.lproj/ServicesMenu.strings pt.lproj/ServicesMenu.strings
+s279328804.029208
+e279328804.069711
+r1
+xCopyStringsFile
+x/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/pt.lproj/ServicesMenu.strings
+xpt.lproj/ServicesMenu.strings
+lSLF07#2@34"Copy pt.lproj/ServicesMenu.strings279328804#279328804#0(0"0(0#0#79"/Users/rogerio/Documents/Projetos/Ruby/ITranslate/pt.lproj/ServicesMenu.strings4300882208#383"    cd /Users/rogerio/Documents/Projetos/Ruby/ITranslate    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 pt.lproj/ServicesMenu.strings --outdir /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources/pt.lproj0#
+
+CCpResource build/Debug/ITranslate.app/Contents/Resources/Services.rb Services.rb
+s279328922.780622
+e279328922.859227
+r1
+xCpResource
+xbuild/Debug/ITranslate.app/Contents/Resources/Services.rb
+xServices.rb
+lSLF07#2@16"Copy Services.rb279328922#279328922#0(0"0(0#0#61"/Users/rogerio/Documents/Projetos/Ruby/ITranslate/Services.rb4300882208#363"    cd /Users/rogerio/Documents/Projetos/Ruby/ITranslate    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rogerio/Documents/Projetos/Ruby/ITranslate/Services.rb /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources0#
+
+CCpResource build/Debug/ITranslate.app/Contents/Resources/gems gems
+s278989201.030110
+e278989201.645800
+r1
+xCpResource
+xbuild/Debug/ITranslate.app/Contents/Resources/gems
+xgems
+lSLF07#2@9"Copy gems278989201#278989201#0(0"0(0#0#54"/Users/rogerio/Documents/Projetos/Ruby/ITranslate/gems4300882208#356"    cd /Users/rogerio/Documents/Projetos/Ruby/ITranslate    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rogerio/Documents/Projetos/Ruby/ITranslate/gems /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources0#
+
+CCpResource build/Debug/ITranslate.app/Contents/Resources/rb_main.rb rb_main.rb
+s279328804.019978
+e279328804.027462
+r1
+xCpResource
+xbuild/Debug/ITranslate.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb279328804#279328804#0(0"0(0#0#60"/Users/rogerio/Documents/Projetos/Ruby/ITranslate/rb_main.rb4300882208#362"    cd /Users/rogerio/Documents/Projetos/Ruby/ITranslate    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rogerio/Documents/Projetos/Ruby/ITranslate/rb_main.rb /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Resources0#
+
+CLd /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/MacOS/ITranslate normal i386
+s279328805.194957
+e279328805.271706
+r1
+xLd
+x/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/MacOS/ITranslate
+xnormal
+xi386
+lSLF07#2@107"Link /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/MacOS/ITranslate279328805#279328805#0(0"0(0#0#0"4300882208#629"    cd /Users/rogerio/Documents/Projetos/Ruby/ITranslate    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug -F/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug -filelist /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/ITranslate.build/Debug/ITranslate.build/Objects-normal/i386/ITranslate.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework RubyCocoa -o /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/MacOS/ITranslate0#
+
+CProcessInfoPlistFile /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Info.plist Info.plist
+s279406980.219998
+e279406980.250673
+r1
+xProcessInfoPlistFile
+x/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist279406980#279406980#0(145"warning: 'CFBundleSignature' is '', which can't be converted to a four-character code in MacRoman encoding (as needed for PkgInfo); using '????'1(22@135"'CFBundleSignature' is '', which can't be converted to a four-character code in MacRoman encoding (as needed for PkgInfo); using '????'279406980#18446744073709551615#0#0(6@0"279406980#0#0#0#0#0"0(0#0#60"/Users/rogerio/Documents/Projetos/Ruby/ITranslate/Info.plist4300882208#341"    cd /Users/rogerio/Documents/Projetos/Ruby/ITranslate    builtin-infoPlistUtility Info.plist -genpkginfo /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app/Contents/Info.plist0#
+
+CTouch /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app
+s279406980.251457
+e279406980.262797
+r1
+xTouch
+x/Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app
+lSLF07#2@82"Touch /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app279406980#279406980#0(0"0(0#0#0"4300882208#156"    cd /Users/rogerio/Documents/Projetos/Ruby/ITranslate    /usr/bin/touch -c /Users/rogerio/Documents/Projetos/Ruby/ITranslate/build/Debug/ITranslate.app0#
+
