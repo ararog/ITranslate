@@ -8,27 +8,29 @@
 	<string>ITranslate</string>
 	<key>CFBundleIconFile</key>
 	<string></string>
+	<key>CFBundleIdentifier</key>
+	<string>br.eti.faces.ITranslateApp</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string></string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
 	<key>NSBGOnly</key>
 	<string>1</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
-	<key>CFBundleIdentifier</key>
-	<string>br.eti.faces.ITranslateApp</string>
-	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
 	<key>NSServices</key>
 	<array>
 		<dict>
 			<key>NSExecutable</key>
-			<string>ITranslate</string>		
+			<string>ITranslate</string>
 			<key>NSKeyEquivalent</key>
 			<dict>
 				<key>default</key>
@@ -43,6 +45,10 @@
 			<string>portugueseToEnglish</string>
 			<key>NSPortName</key>
 			<string>ITranslate</string>
+			<key>NSReturnTypes</key>
+			<array>
+				<string>NSStringPboardType</string>
+			</array>
 			<key>NSSendFileTypes</key>
 			<array>
 				<string>public.text</string>
@@ -51,15 +57,11 @@
 			<key>NSSendTypes</key>
 			<array>
 				<string>NSStringPboardType</string>
-			</array>						
-			<key>NSReturnTypes</key>
-			<array>
-				<string>NSStringPboardType</string>
 			</array>
 		</dict>
 		<dict>
 			<key>NSExecutable</key>
-			<string>ITranslate</string>		
+			<string>ITranslate</string>
 			<key>NSKeyEquivalent</key>
 			<dict>
 				<key>default</key>
@@ -74,6 +76,10 @@
 			<string>englishToPortuguese</string>
 			<key>NSPortName</key>
 			<string>ITranslate</string>
+			<key>NSReturnTypes</key>
+			<array>
+				<string>NSStringPboardType</string>
+			</array>
 			<key>NSSendFileTypes</key>
 			<array>
 				<string>public.text</string>
@@ -82,15 +88,11 @@
 			<key>NSSendTypes</key>
 			<array>
 				<string>NSStringPboardType</string>
-			</array>						
-			<key>NSReturnTypes</key>
-			<array>
-				<string>NSStringPboardType</string>
 			</array>
 		</dict>
 		<dict>
 			<key>NSExecutable</key>
-			<string>ITranslate</string>		
+			<string>ITranslate</string>
 			<key>NSKeyEquivalent</key>
 			<dict>
 				<key>default</key>
@@ -105,16 +107,16 @@
 			<string>englishToSpanish</string>
 			<key>NSPortName</key>
 			<string>ITranslate</string>
+			<key>NSReturnTypes</key>
+			<array>
+				<string>NSStringPboardType</string>
+			</array>
 			<key>NSSendFileTypes</key>
 			<array>
 				<string>public.text</string>
 				<string>public.plain-text</string>
 			</array>
 			<key>NSSendTypes</key>
-			<array>
-				<string>NSStringPboardType</string>
-			</array>						
-			<key>NSReturnTypes</key>
 			<array>
 				<string>NSStringPboardType</string>
 			</array>
